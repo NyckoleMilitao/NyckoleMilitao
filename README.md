@@ -1,3 +1,5 @@
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=&bg_color=cf448e&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Olá!! Eu sou a Nyckole Militão
 ##### Estudante dedicada em Tecnologia da Informação com habilidades em desenvolvimento de software, buscando uma transição de carreira para a área de tecnologia. Experiência em projetos acadêmicos e entusiasmo pela programação, com o objetivo de contribuir com soluções inovadoras e aprender com profissionais experientes. 
 
