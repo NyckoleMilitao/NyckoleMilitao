@@ -1,5 +1,5 @@
 ## Olá!! Eu sou a Nyckole Militão
-# Estudante dedicada em Tecnologia da Informação com habilidades em desenvolvimento de software, buscando uma transição de carreira para a área de tecnologia. Experiência em projetos acadêmicos e entusiasmo pela programação, com o objetivo de contribuir com soluções inovadoras e aprender com profissionais experientes. 
+##### Estudante dedicada em Tecnologia da Informação com habilidades em desenvolvimento de software, buscando uma transição de carreira para a área de tecnologia. Experiência em projetos acadêmicos e entusiasmo pela programação, com o objetivo de contribuir com soluções inovadoras e aprender com profissionais experientes. 
 
 - - 😄 Pronomes: Ela/dela
 
